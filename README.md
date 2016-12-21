@@ -19,6 +19,7 @@ Requirements.
      Create an interface named "AppAddNum".
      Create a class named "AddNum" to implemet the interface.
      Create a class named "AddNumPublisher" to publish the interface.
+     Run the class named "AddNumPublisher" and type this in your browser to get the wsdl "http://localhost:8080/APP/AddNum?wsdl".
 
 3) Create Java Project named "WebClientApp".  
    Run the class  named "AddNumPublisher".
@@ -33,3 +34,4 @@ Requirements.
     Done!
 
     See the source code here : https://github.com/msomi22/java-webservice
+
